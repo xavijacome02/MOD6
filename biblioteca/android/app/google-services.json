@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060144138535",
+    "project_id": "biblioteca-ce264",
+    "storage_bucket": "biblioteca-ce264.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060144138535:android:dff56f2d4c5859e6460102",
+        "android_client_info": {
+          "package_name": "com.example.biblioteca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1llPwaL7QkA6Q-PyhGl8TvA7nmCaz1E8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
